@@ -16,7 +16,7 @@
 // under the License.
 
 // +build !integration
-// +build darwin freebsd linux openbsd windows
+// +build darwin freebsd linux openbsd windows aix
 
 package memory
 

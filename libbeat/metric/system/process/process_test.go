@@ -16,7 +16,7 @@
 // under the License.
 
 // +build !integration
-// +build darwin freebsd linux windows
+// +build darwin freebsd linux windows aix
 
 package process
 
